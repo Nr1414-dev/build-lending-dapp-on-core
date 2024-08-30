@@ -40,3 +40,5 @@ Following are the pre-requisites tools that you'll need:
   - USD.json
   to `interface/src/ABI/` folder.
 - Run the frontend using `npm  start`.
+git clone https://github.com/Nr1414-dev/build-lending-dapp-on-core.git build-lending-dapp-on-core 
+cd build-lending-dapp-on-core
